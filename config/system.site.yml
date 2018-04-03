@@ -1,0 +1,14 @@
+uuid: 9cc244fb-58de-41d2-9079-417bdaa54f4a
+name: tkriesel-nashville-2018-training
+mail: tessa@getpantheon.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
